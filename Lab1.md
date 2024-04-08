@@ -1,6 +1,6 @@
-#Lab Report 1
+# Lab Report 1
 
-**Below are examples for using cd, ls, and cat with no arguments:**
+## **Below are examples for using cd, ls, and cat with no arguments:**
 
 <img width="215" alt="cd-noArgs" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/7cd06db9-3e04-4bf4-bead-180f6a422c6d">
 
@@ -20,7 +20,7 @@ Absolute path: /Users/j.t
 Absolute path: /Users/j.t
 
 
-**Below are examples of using cd, ls, and cat with directories as an argument:**
+## **Below are examples of using cd, ls, and cat with a directory as an argument:**
 
 <img width="293" alt="cd-directory" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/e902aad5-68b3-413a-9557-ef5cdcfb8c5c">
 
@@ -38,7 +38,7 @@ Absolute path: /Users/j.t/lecture1
 Absolute path: /Users/j.t/lecture1
 
 
-**Below are examples of using cd, ls, and cat with directories as an argument:**
+## **Below are examples of using cd, ls, and cat with a file as an argument:**
 
 <img width="365" alt="cd-file" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/8f47caac-a8fb-475b-b2f2-38dbe1ebbd5e">
 
