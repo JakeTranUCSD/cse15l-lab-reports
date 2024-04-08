@@ -55,7 +55,7 @@ Absolute path: /Users/j.t/lecture1
 **cat:** This isn't an error. When cat is used with a file, it displays the file's contents. 
 Absolute path: /Users/j.t/lecture1
 
-Thanks for reading, have a great day!
+**Thanks for reading, have a great day!**
 
 
 
