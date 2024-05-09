@@ -102,6 +102,9 @@ Output:
 <img width="730" alt="Screen Shot 2024-05-08 at 11 26 26 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/3575dc90-a0e2-4076-8f95-b46555dd1da9">
 
 
+`grep -i` is useful for searching for lines when case isn't a factor. The example above shows files are being searched for lines that match a specifed pattern. (Source: `man grep`).
+
+
 **grep -n examples:**
 
 
@@ -117,6 +120,9 @@ Output:
 
 
 <img width="581" alt="Screen Shot 2024-05-08 at 11 27 47 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/0cfa18cd-d5fb-47ec-9c91-e7595bd9d89c">
+
+
+`grep -n` finds the line number of an appearance of a specified pattern. It's useful for editing the document. (Source: `man grep`).
 
 
 **grep -r examples:**
@@ -137,6 +143,9 @@ Output:
 <img width="728" alt="Screen Shot 2024-05-08 at 11 29 21 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/d71ceefc-fecf-4cfd-9d93-7c1aef6feabd">
 
 
+`grep -r` searches recursively through a provided directory for a specifed pattern. It will display the name of the file upon execution. This is useful for looking through large amounts of files. (Source: `man grep`).
+
+
 **grep -v examples:**
 
 
@@ -155,6 +164,7 @@ Output:
 <img width="699" alt="Screen Shot 2024-05-08 at 11 30 37 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/fd7283c2-fa2d-45cb-b5ab-ec08261e979a">
 
 
+`grep -v` searches for lines that do not meet a specified pattern. This is useful for filtering out lines which do not meet a pattern. (Source: `man grep`).
 
 
 **Thanks for reading, have a great day!**
