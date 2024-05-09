@@ -105,34 +105,55 @@ Output:
 **grep -n examples:**
 
 
-Input: ``
+Input: `grep -n "med" plos/pmed.0020149.txt`
 Output:
 
 
-Input: ``
+<img width="734" alt="Screen Shot 2024-05-08 at 11 26 55 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/c6fb52f8-c375-46de-8869-c0574a975cf4">
+
+
+Input: `grep -n "you" government/Media/Justice_for_all.txt`
 Output:
+
+
+<img width="581" alt="Screen Shot 2024-05-08 at 11 27 47 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/0cfa18cd-d5fb-47ec-9c91-e7595bd9d89c">
 
 
 **grep -r examples:**
 
 
-Input: ``
+Input: `grep -r "you" government`
 Output:
 
 
-Input: ``
+<img width="866" alt="Screen Shot 2024-05-08 at 11 28 42 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/fdf803e2-0d21-43dc-bda0-eef8f0459dd5">
+
+
+
+Input: `grep -r "you" biomed`
 Output:
+
+
+<img width="728" alt="Screen Shot 2024-05-08 at 11 29 21 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/d71ceefc-fecf-4cfd-9d93-7c1aef6feabd">
 
 
 **grep -v examples:**
 
 
-Input: ``
+Input: `grep -v "s" plos/journal.pbio.0030137.txt`
 Output:
 
 
-Input: ``
+<img width="712" alt="Screen Shot 2024-05-08 at 11 29 48 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/a83bbc6d-359e-456d-a897-2514c00ca5b6">
+
+
+
+Input: `grep -v "s" 911report/chapter-10.txt`
 Output:
+
+
+<img width="699" alt="Screen Shot 2024-05-08 at 11 30 37 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/fd7283c2-fa2d-45cb-b5ab-ec08261e979a">
+
 
 
 
