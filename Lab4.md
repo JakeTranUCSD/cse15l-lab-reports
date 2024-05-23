@@ -27,3 +27,16 @@ I modified the code using vim to remove the error right under the comment, navig
 arrows and right arrows to change index1 to index2. Then, I saved the file using :wq
 
 I used vim to modify the code. I navigaated to the error under the comment using down and right arrows to change index1 to index2. I saved the file using `:wq`.
+
+
+## Step 8: `<up><up><up><up> <enter> <up><up><up> <enter>`
+
+<img width="945" alt="Screen Shot 2024-05-22 at 9 21 17 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/2b8112c8-ddfc-4c09-a5c8-0547cf10ea42">
+
+I recompiled the code and re-ran it. I made use of the bask key to employ the commands I had used previously to compile and run the code. 
+
+## Step 9: `git add . <enter> git commit -m "finished" <enter> git push <enter>`
+
+<img width="544" alt="Screen Shot 2024-05-22 at 9 29 52 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/cff8d7b8-4ae1-4259-9bf5-840b357f0e67">
+
+I commit and pushed my files to my forked repo.
