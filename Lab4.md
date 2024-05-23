@@ -22,3 +22,8 @@ I cd to lab 7 and copied and pasted a command from the lab 7 activity to compile
 ## Step 7: `ls <enter> vim ListExamples.java <enter> <down><down><down><down><down><down> <right> <i> <right> <backspace> 2 <esc> :wq <enter>`
 
 <img width="1000" alt="Screen Shot 2024-05-22 at 9 15 11 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/c5ebd638-efab-4d1b-b804-53302887a350">
+
+I modified the code using vim to remove the error right under the comment, navigating with down
+arrows and right arrows to change index1 to index2. Then, I saved the file using :wq
+
+I used vim to modify the code. I navigaated to the error under the comment using down and right arrows to change index1 to index2. I saved the file using `:wq`.
