@@ -14,7 +14,7 @@ I cloned the lab 7 repo using the ssh address.
 
 ## Step 6: `ls <enter> cd lab7 <enter> COMMAND+C COMMAND+V <enter> COMMAND+C COMMAND+V <backspace><backspace><backspace> ListExamplesTests <enter>`
 
-
 <img width="933" alt="Screen Shot 2024-05-22 at 9 03 20 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/fc69ca33-a7a8-4bfa-8d00-5346f9a490ed">
 
+I cd to lab 7 and copied and pasted a command from the lab 7 activity to compile the code. Next, I copied and pasted another command to run the code, and changed it to the ListExamplesTests JUnit file. 
 
