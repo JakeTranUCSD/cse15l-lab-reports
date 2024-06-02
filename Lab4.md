@@ -39,4 +39,8 @@ I recompiled the code and re-ran it. I made use of the bask key to employ the co
 
 <img width="544" alt="Screen Shot 2024-05-22 at 9 29 52 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/cff8d7b8-4ae1-4259-9bf5-840b357f0e67">
 
+
+<img width="583" alt="Screen Shot 2024-06-01 at 7 02 35 PM" src="https://github.com/JakeTranUCSD/cse15l-lab-reports/assets/147591070/d57f005b-8339-4545-ba32-990b1f63d9b0">
+
+
 I commit and pushed my files to my forked repo.
